@@ -189,7 +189,7 @@ const TestResultsPanel = ({ onCheckClick }) => {
 						target="_blank"
 						rel="noopener noreferrer"
 						className="font-semibold underline hover:text-blue-600 dark:hover:text-blue-200">
-						Data Contract CLI
+						docs.datacontract.com/api
 					</a> API server, use the following command:</p>
           <div className="bg-gray-900 text-gray-100 p-2 rounded font-mono text-xs">
             $ datacontract api
